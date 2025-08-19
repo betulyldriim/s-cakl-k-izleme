@@ -1,0 +1,2 @@
+Bu projenin çalışma mantığı, bir endüstriyel sensörden gelen fiziksel bir sinyali, bir otomasyon sistemi aracılığıyla dijital veriye dönüştürmek, bu veriyi işlemek ve son olarak bir insan-makine arayüzü üzerinden kullanıcıya anlaşılır bir formatta sunmaktır. Aynı zamanda, fail-safe bileşenlerin kullanımıyla sisteme bir güvenlik katmanı eklenerek endüstriyel standartlara uyum sağlanmıştır. Bu proje, temel sensör verisi işlemenin ve kullanıcı arayüzü tasarımının tipik bir örneğidir.
+
